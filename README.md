@@ -1,9 +1,9 @@
 # nodejs-note
 
-- [__dirname 与 process.cwd()](#__dirname 与 process.cwd())
+- [__dirname 与 process.cwd()](#process.cwd()与__dirname)
 
 
-## __dirname 与 process.cwd()区别
+## process.cwd()与__dirname
 
 cwd() 是当前执行node命令时候的文件夹地址 
 __dirname 是被执行的js 文件的地址
